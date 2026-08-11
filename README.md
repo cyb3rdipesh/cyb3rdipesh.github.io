@@ -20,7 +20,7 @@ This folder is already a git repo with an initial commit. Create a new
 **empty** repository on GitHub named exactly:
 
 ```
-dipeshtabdar.github.io
+cyb3rdipesh.github.io
 ```
 
 (User-site repos on GitHub Pages must be named `<username>.github.io` — this
@@ -31,7 +31,7 @@ Do NOT initialize it with a README/license on GitHub's side (this repo
 already has files). Then run:
 
 ```bash
-git remote add origin https://github.com/dipeshtabdar/dipeshtabdar.github.io.git
+git remote add origin https://github.com/cyb3rdipesh/cyb3rdipesh.github.io.git
 git branch -M main
 git push -u origin main
 ```
@@ -43,7 +43,7 @@ Go to the repo → **Settings → Pages** → under "Build and deployment", set
 Your site will be live within a minute or two at:
 
 ```
-https://dipeshtabdar.github.io
+https://cyb3rdipesh.github.io
 ```
 
 ## 4. Point your custom domain (dipeshtabdar.com.np)
@@ -65,7 +65,7 @@ GitHub. In your domain registrar's DNS panel, add:
 
 | Type  | Host | Value                     |
 |-------|------|---------------------------|
-| CNAME | www  | dipeshtabdar.github.io.   |
+| CNAME | www  | cyb3rdipesh.github.io.    |
 
 Then in the GitHub repo → **Settings → Pages → Custom domain**, enter
 `dipeshtabdar.com.np` and save (GitHub will verify DNS — this can take a few
